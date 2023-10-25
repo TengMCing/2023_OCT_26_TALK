@@ -1,0 +1,10 @@
+strong {
+  color: #d33682;
+}
+
+.reveal blockquote {
+    border-left: solid 5px #cb4b16;
+    padding-left: 1em;
+    display: block;
+    margin-inline-start: 2em;
+}
