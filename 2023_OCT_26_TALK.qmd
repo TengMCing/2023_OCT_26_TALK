@@ -7,7 +7,7 @@ format:
     transition: fade
     incremental: true 
     theme: default
-    footer: <https://TengMCing.github.com/lineup_residual_diagnostics>
+    footer: <https://patrick-lrd.netlify.app>
     logo: figures/monash-stacked-blue-rgb.png
 ---
 

@@ -3,7 +3,7 @@
     "path": "~/Desktop/rproject/2023_OCT_26_TALK/2023_OCT_26_TALK.qmd",
     "project_path": "2023_OCT_26_TALK.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3197075880",
     "contents": "",
     "dirty": false,
     "created": 1698210018304.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "193:99.54545593261719",
-        "cursorPosition": "618,0",
-        "scrollLine": "599"
+        "cursorPosition": "9,44",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1698262694,
+    "lastKnownWriteTime": 1698263282,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1698262694276,
+    "last_content_update": 1698263282338,
     "read_only": false,
     "read_only_alternatives": []
 }
